@@ -1,1 +1,1 @@
-# testes-kabum
+# Repositório de testes para candidatos - KaBuM!
