@@ -1,7 +1,7 @@
 # Atividade Back-end KaBuM!
 
 <div style="text-align:center">
-    <img src="https://static.kabum.com.br/conteudo/temas/001/imagens/topo/logo_kabum_.png">
+    <img src="https://lh3.googleusercontent.com/3dQAPqJ2BNRzS81CoLvR8-AhUUXc8UaZKO1PtmnK6GPvILi9RFVljFe8bgLKLQYIZg76HtZl2w=w16383">
 </div>
 
 ## O problema
