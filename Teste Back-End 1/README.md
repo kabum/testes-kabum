@@ -19,9 +19,6 @@ Além do e-commerce, o KaBuM! é um grande incentivador dos esportes eletrônico
 
 O KaBuM necessita realizar cotações de fretes em suas transportadoras parceiras e você, como desenvolvedor back-end, deve desenvolver uma API REST que será utilizada pelo site para a consulta de opções de transportes dos produtos.
 
----
-
-## Objetivo
 O candidato terá que ser capaz de construir uma API REST.
 
 O teste está baseado em uma consulta dos valores de frete para cada transportadora existente conforme as especificações das **dimensões** e **peso** do produto.
