@@ -4,7 +4,7 @@
     <img src="https://static.kabum.com.br/conteudo/faq/img/banner-faq.jpg">
 </div>
 
-Neste repositório temos armazenados os testes utilizados para seleção de candidatos para integrar o time do KaBuM!
+Neste repositório temos armazenados os testes utilizados para seleção de candidatos que poderão integrar o time de tecnologia do KaBuM!
 
 ## Sobre o KaBuM!
 
