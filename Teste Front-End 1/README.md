@@ -1,19 +1,24 @@
-# Atividade Front-End KaBuM!
+# Teste KaBuM! Front-End
 
-<div style="text-align:center">
-    <img src="https://static.kabum.com.br/conteudo/temas/001/imagens/topo/logo_kabum_.png">
-</div>
+## Instruções
+- Siga as especificações abaixo.
+- Crie um README com as instruções para compilar, testar e rodar o projeto.
+- Disponibilizar o código em um respositório do GitHub.
 
-# Requisitos
+## Especificações funcionais
+- Desenvolver uma copia da tela inicial do kabum. (https://www.kabum.com.br/).
+- Ao clicar no botao "comprar" no card dos produtos, deverá somar a quantidade no icone do carrinho.
 
-- O sistema deverá ser em React com Redux (utilizando Sagas)
-- Deverá conter uma rota de listagem e descrição de produtos
-- O layout deverá ser criado pelo desenvolvedor
-- Os dados devem vir de um MOCK API
-- Deverá existir a possibilidade de adicionar o produto no carrinho
-- Acrescentar e diminuir a quantidade
-- Remover do carrinho
-- Deverá ser possível acessar o carrinho com os produtos em qualquer tela do sistema
-- Na listagem, deverá ser possível filtrar pelo nome dos produtos ou id
-- Deverá ser utilizado Styled Components para estilização
-- Disponibilizar o código em um respositório do GitHub
+## Observações
+- O consumo das rotas de backend será via mock API.
+
+## Especificações tecnicas
+- Utilizar Next, React, Styled-component.
+- O layout deve ser responsivo.
+
+## O que será avaliado?
+- Organização do projeto
+- Lógica do código
+- Uso do Git
+- Componentização
+- Usabilidade/Acessibilidade
